@@ -1,6 +1,7 @@
 manifestVersion: 1
 id: zeroq-apps-streamarr-pro
 name: StreamArr Pro
+icon: https://raw.githubusercontent.com/ZeroQ-bit/StreamArr-Pro/main/streamarr-pro-ui/public/logo.png
 tagline: Stream torrents through Debrid and 3rd party services
 category: Media
 version: "1.2.3"
