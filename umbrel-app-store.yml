@@ -3,5 +3,3 @@ name: "ZeroQ Apps"
 apps:
   - id: streamarr-pro
     path: ./streamarr-pro
-  - id: riven
-    path: ./riven
