@@ -3,7 +3,7 @@ version: "3.8"
 services:
   app_proxy:
     environment:
-      APP_HOST: streamarr
+      APP_HOST: zeroq-apps-streamarr-pro_streamarr_1
       APP_PORT: 8080
 
   streamarr:
