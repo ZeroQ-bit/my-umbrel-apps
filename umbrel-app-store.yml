@@ -1,5 +1,2 @@
 id: "zeroq-apps"
 name: "ZeroQ Apps"
-apps:
-  - id: streamarr-pro
-    path: ./streamarr-pro
