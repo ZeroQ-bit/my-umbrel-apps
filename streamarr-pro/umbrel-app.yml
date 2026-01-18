@@ -2,7 +2,6 @@ manifestVersion: 1
 id: streamarr-pro
 name: StreamArr Pro
 tagline: Stream torrents through Debrid and 3rd party services
-icon: https://raw.githubusercontent.com/ZeroQ-bit/StreamArr-Pro/main/docs/logo.png
 category: Media
 version: "1.2.3"
 port: 8080
