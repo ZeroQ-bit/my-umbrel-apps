@@ -1,17 +1,19 @@
 manifestVersion: 1
 id: zeroq-apps-streamarr-pro
 name: StreamArr Pro
-icon: https://raw.githubusercontent.com/ZeroQ-bit/StreamArr-Pro/main/streamarr-pro-ui/public/logo.png
 tagline: Stream torrents through Debrid and 3rd party services
+icon: https://raw.githubusercontent.com/ZeroQ-bit/StreamArr-Pro/main/streamarr-pro-ui/public/logo.png
 category: Media
 version: "1.2.3"
 port: 8080
-description: "StreamArr Pro streams torrents through Debrid services and integrates with TMDB, Mdblist and other content sources."
+description: >- 
+StreamArr Pro streams torrents through Debrid services and integrates with TMDB, Mdblist and other content sources.
 developer: ZeroQ
 website: https://github.com/ZeroQ-bit/StreamArr-Pro
 submitter: ZeroQ
 submission: https://github.com/ZeroQ-bit/My-Umbrel-Apps
 repo: https://github.com/ZeroQ-bit/StreamArr-Pro
 support: https://github.com/ZeroQ-bit/StreamArr-Pro/issues
-releaseNotes: "StreamArr Pro for Umbrel"
+releaseNotes: >- 
+StreamArr Pro for Umbrel
 dependencies: []
